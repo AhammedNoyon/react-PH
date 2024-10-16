@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.person-container {
+  border: 2px solid orangered;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 15px;
+  background-color: cadetblue;
+  border-style: none;
+  box-shadow: 2px 5px 5px orange;
+}
+.mans-container {
+  margin-top: 40px;
+  border: 2px solid seagreen;
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 32px;
+  font-weight: bold;
+}
